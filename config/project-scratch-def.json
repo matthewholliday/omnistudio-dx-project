@@ -1,7 +1,7 @@
 {
   "orgName": "Demo company",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["AuthorApex", "DebugApex", "EnableSetPasswordInApi", "BusinessRulesEngine", "OmniStudioDesigner","OmniStudioRuntime","EducationCloud:5","DataProcessingEngine","DecisionTable"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
